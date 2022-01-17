@@ -1,0 +1,32 @@
+{
+  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have you on file. In order for us to review and merge your code, please follow the instructions at https://bytedance.feishu.cn/docs/doccnDUWkuuoOzFGtzoeMuWpzKc",
+  "label": "cla-signed",
+  "recheckComment": "On it!",
+  "contributors": [
+    "anc95",
+    "await-ovo",
+    "caohuilin",
+    "ChelesteWang",
+    "chenhuang444",
+    "dexteryy",
+    "fi3ework",
+    "hxykjc",
+    "jiahao-c",
+    "lastIndexOf",
+    "leeight",
+    "lianghx-319",
+    "netbeen",
+    "puxiao",
+    "rqzheng2015",
+    "spcBackToLife",
+    "targeral",
+    "tqma113",
+    "xuchaobei",
+    "ycaptain",
+    "yimingjfe",
+    "yingpengsha",
+    "zhoushaw",
+    "zllkjc",
+    "zoolsher"
+  ]
+}
